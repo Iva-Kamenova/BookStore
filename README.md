@@ -39,7 +39,7 @@ This project was created as part of a school assignment focused on learning rela
 
 Created by Iva Boneva
 School: PPMG Geo Milev, Stara Zagora 
-Course: 12  
+Course: Informatics 
 Year: 2023
 
 ---
